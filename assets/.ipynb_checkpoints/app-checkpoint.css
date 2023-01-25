@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@300&display=swap');
+
+body{
+    background-color: #3C4048;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+.app-body{
+    background-color: #00ABB3;
+    border-radius: 20px;
+    color: #FFF;
+    text-align: center;
+}
+
+#app-dropdown-state {
+    color: #3C4048;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 44px;
+}
+
+p {
+    color: #3C4048;
+    font-weight: 600;
+}
+img {
+    margin-top: 20px;
+}
