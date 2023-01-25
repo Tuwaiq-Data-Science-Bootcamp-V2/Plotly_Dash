@@ -10,3 +10,21 @@ body{
     color: #FFF;
     text-align: center;
 }
+
+#app-dropdown-state {
+    color: #3C4048;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 44px;
+}
+
+p {
+    color: #3C4048;
+    font-weight: 600;
+}
+img {
+    margin-top: 20px;
+}
