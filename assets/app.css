@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@300&display=swap');
+
+body{
+    background-color: #3C4048;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+.app-body{
+    background-color: #00ABB3;
+    border-radius: 20px;
+    color: #FFF;
+    text-align: center;
+}
